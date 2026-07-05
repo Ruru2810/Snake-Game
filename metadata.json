@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game and Music Player",
+  "description": "An interactive bento-grid synth-snake retro game integrated with a procedural AI-style neural synthesizer music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
